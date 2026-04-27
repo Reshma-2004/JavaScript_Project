@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+  }
+
+  .theme {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+  }
+

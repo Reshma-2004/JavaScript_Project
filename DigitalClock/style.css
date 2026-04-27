@@ -1,0 +1,13 @@
+ body{
+            background-color: rgb(209, 183, 183);
+        }
+        #clock{
+            background-color:rgb(2, 39, 39);
+            color: whitesmoke;
+            height: 100px;
+            width: 300px;
+            font-size: 50px;
+            font-weight: bold;
+            text-align: center;
+            padding: 20px;
+        }
